@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="action_settings">Settings</string>
+    <string name="usernameHint">Username</string>
+    <string name="passwordHint">Password</string>
+    <string name="landingImageDescription">Landscape</string>
+    <string name="profileImageDescription">Profile</string>
+    <string name="login_button">Login</string>
+    <string name="hello">Hello</string>
+    <string name="welcomeback">welcome back</string>
+    <string name="pref_file_key" translatable="false">pref_file_key</string>
+</resources>

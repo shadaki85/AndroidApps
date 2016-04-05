@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ciao Mondo</string>
+    <string name="hello">Ciao</string>
+    <string name="landingImageDescription">Paesaggio</string>
+    <string name="login_button">Login</string>
+    <string name="passwordHint">Password</string>
+    <string name="usernameHint">Nome Utente</string>
+    <string name="welcomeback">bentornato</string>
+    <string name="action_settings">Impostazioni</string>
+    <string name="profileImageDescription">Profilo</string>
+</resources>
